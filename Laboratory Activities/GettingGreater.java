@@ -20,8 +20,8 @@ public class GettingGreater {
         System.out.println("The character with the greater value is: " + greater);
         System.out.println("------------------------------");
         System.out.println("Showing the ASCII Codes");
-        System.out.println(first + ":" + asciiFirst);
-        System.out.println(second + ":" + asciiSecond);
+        System.out.println(first + " : " + asciiFirst);
+        System.out.println(second + " : " + asciiSecond);
 
         scanner.close();
     }
