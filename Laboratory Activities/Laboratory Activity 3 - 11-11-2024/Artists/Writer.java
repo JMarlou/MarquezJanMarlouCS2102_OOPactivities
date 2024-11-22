@@ -1,3 +1,4 @@
+package Artists;
 public class Writer extends Artist {
     public enum WritingStyle { FICTION, NON_FICTION, POETRY, DRAMA }
     private WritingStyle writingStyle;

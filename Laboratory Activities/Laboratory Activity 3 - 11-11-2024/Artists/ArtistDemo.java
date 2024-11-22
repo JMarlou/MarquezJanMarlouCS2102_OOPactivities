@@ -1,3 +1,9 @@
+package Artists;
+import Artists.Dancer.DanceStyle;
+import Artists.Painter.Medium;
+import Artists.Singer.Genre;
+import Artists.Writer.WritingStyle;
+
 public class ArtistDemo {
     public static void main(String[] args) {
         Artist artist = new Artist("Charlie Puth", 32, "Music");

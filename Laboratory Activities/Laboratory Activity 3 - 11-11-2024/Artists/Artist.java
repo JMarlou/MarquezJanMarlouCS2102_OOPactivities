@@ -1,3 +1,4 @@
+package Artists;
 public class Artist {
     protected String name;
     protected int age;

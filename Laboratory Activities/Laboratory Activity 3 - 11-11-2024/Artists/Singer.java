@@ -1,3 +1,4 @@
+package Artists;
 public class Singer extends Artist {
     public enum Genre { POP, ROCK, CLASSICAL, JAZZ, HIPHOP, RNB }
     private Genre genre;

@@ -1,3 +1,4 @@
+package Artists;
 public class Painter extends Artist {
     public enum Medium { OIL, WATERCOLOR, ACRYLIC, PENCIL, CHARCOAL }
     private Medium medium;
