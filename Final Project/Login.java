@@ -26,10 +26,10 @@ public class Login {
 
        if (loginSuccessful) {
            System.out.println("Welcome, " + username + "!");
-           return username; // Return the logged-in username
+           return username;
        } else {
            System.out.println("Invalid username or password.");
-           return null; // Return null if login fails
+           return null; 
        }
    }
 }
